@@ -27,25 +27,13 @@ Click here for **[The FreeRTOS Kernel](https://www.freertos.org/)**
 
 [About](#about)
 
-[Collaborators](#collaborators)
-
 [Branches](#branches) 
-
-[Copyright & Licensing](#copyright--licensing)
-
-[Contributing](#contributing)
-
-[Contact](#contact)
 
 ## What It Is
 
 **ArduRMMMQ for Arduino® FreeRTOS**
 
 ArduRMMMQ teaches you how multiple sensors will work at the same time using Arduino FreeRTOS. It will contribute greatly to both a hobby and a school lesson.
-
-### Woking Video (YouTube)
-
-[![Working video](screenshots/thumbnail.png?raw=true "Screenshot")](https://youtu.be/XVS2n29XugQ)
 
 ## How To Use
 
@@ -135,19 +123,3 @@ While this repository is being prepared, it may have been quoted from some sourc
 - https://aws.amazon.com/freertos/
 - https://github.com/feilipu/Arduino_FreeRTOS_Library
 
-If there is an unspecified source or if you think that I made a copyright infringement, please contact with me.
-
-## Contributing
-
-Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for contribution instructions and naming guidelines.
-
-## Contact
-
-ArduRMMMQ was created by Furkan 'Dentrax' Türkal
-
- * <https://www.furkanturkal.com>
- 
-You can contact by URL:
-    **[CONTACT](https://github.com/dentrax)**
-
-<kbd>Best Regards</kbd>
