@@ -87,10 +87,6 @@ ArduRMMMQ was created to serve three purposes:
 
 3. There is a source for you to develop own Raspberry PI module (like MagicMirror module) in RTOS and inreace your Arduino programming level
 
-## Collaborators
-
-**Project Manager** - Furkan Türkal (GitHub: **[Dentrax](https://github.com/dentrax)**)
-
 ## Branches
 
 We publish source for the **[ArduRMMMQ]** in single rolling branch:
